@@ -15,3 +15,9 @@ The script performs the following steps:
 - `getSkewAngle(cvImage)`: Computes the skew angle of the input image.
 - `rotateImage(cvImage, angle)`: Rotates the image around its center.
 - `deskew(cvImage)`: Detects the skew angle and corrects it.
+
+## **Dataset**
+- https://drive.google.com/file/d/17Yyz_1xL9EP9stkl_lA2kP8KNSa8eiGW/view?usp=drive_link
+
+## **Ouput**
+- https://drive.google.com/file/d/11LW0pN_yJP_hwGKrNKNHWjdLAAy8oCoA/view?usp=sharing
